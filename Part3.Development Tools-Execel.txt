@@ -1,0 +1,9 @@
+Part4.Development Tool-Execel
+========================//=================
+Development Tool
+1. Excel
+2. Power BI Desktop
+In Excel we can do the following:
+1. Goto Excel
+2. Go to File=>Option=> Adins => Select COl
+from Manage drop box

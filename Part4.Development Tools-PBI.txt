@@ -1,0 +1,10 @@
+Part4: Development Tools
+Once you added, you can have the tollowing:
+1. Data Query under Data
+2. Data Model under Power Pivot tab (which is added now)
+3. The power View4 it is not found under Insert tab do the following:
+• Go to File
+• Option
+• Customize Ribon
+• From Right list under insert create a new group and name PowerView
+• From the left find Power View under Commands not in the ribbon list and drag and drop the ‘insert Power View Report Icon.
