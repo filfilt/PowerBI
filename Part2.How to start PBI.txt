@@ -1,0 +1,18 @@
+PART2:DATA MODEL AND DATA FILE
+===========//================
+Data Models can be stored in either of the following file format:
+-PBIX
+-XLSX
+Data on the other hand can be stored in
+-XLSX
+-XLSM
+-CSV File format
+-Other Format
+Note:- a report can use only from one single dataset. If we want to get from multiple sources, we
+should have a data Model first
+-------------==-----------------
+
+How to access Power BI service?
+1. go to http://powerbi.com
+2. Set account
+3. Provide email address for your business
