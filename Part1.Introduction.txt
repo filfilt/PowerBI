@@ -1,0 +1,19 @@
+--Video: https://www.youtube.com/watch?v=M0onHJ6M0Co&feature=youtu.be
+========================//================================
+Part1:Content:
+=>Introduction
+-What is it?
+-Data Model and Data Files
+-How to access PBI Services
+-History of Power BI
+-Development Tools
+-Many more...
+---------//---------
+=>What it it?
+-1t is a cloud-based service from Microsoft
+-Some features are available for free and some are on purchase
+-lt can get data from the cloud or on-premises data sources
+-lt perform Data Modeling
+-1t can help to create dashboards form data model
+-lt uses Natural language to query data and to have quick insights
+-To upload data to the cloud
