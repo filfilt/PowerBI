@@ -1,0 +1,11 @@
+    Combining Queries
+1. Select Transform data
+2. Once you select the first query
+
+Steps:
+	-Home
+	-Report
+	-Transform Data
+	-Transform Query
+	-Append
+	-Appened Query as New
