@@ -5,7 +5,7 @@ Getting data from Web
 1. Go to Getdata
 2. Put: https://www2.census.gov/geo/docs/maps-data/data/rel/zcta_place_rel_10.txt
 
-	Get Data From Web
+   Get Data From Web
 	-Open PowerBI Desktop
 	-Go to "Get data"
 	-Web
@@ -13,5 +13,13 @@ Getting data from Web
 	-Check basic THEN Ok
 	-Connect
 	-Load
+  publish the data to workspace
+	-Publish
+	-Save
+	-select workspace
+	-and display it by clicking it under Report
+
+
+
 
 
