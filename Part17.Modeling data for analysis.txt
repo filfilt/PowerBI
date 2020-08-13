@@ -1,0 +1,20 @@
+Part17.Modeling data for analysis
+  ===============================
+Modeling data can be done by creating relationships between tables.
+1. Adding Relationship
+Quality of data matters when we create relationships
+2. Adding a new computing Column
+
+  ----------------//-------------------
+  Adding Computing Columns
+1. Go to the Table View
+2. Select the dataset
+3. And perform the following:
+
+Bring tables(Student,Course,Grade) From SQL Server
+
+1.Under Model: Check the model: Relation
+2. Under Data: 
+	- Create New Column   & ->Upersand => instead of +
+	- Change whole number to text
+ 	- Name of new column: StudentIdandMark = [StudentId] & " has "& [Mark]
