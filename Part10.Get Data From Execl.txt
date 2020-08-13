@@ -1,0 +1,6 @@
+Part10> Get Data From Execl
+  ======================
+	-Open Power BI Desktop
+	-Get Data
+	-Execl
+	
