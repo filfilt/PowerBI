@@ -26,3 +26,7 @@ with others.
 Howtodo it?
 1. Install on-premise data gateway
 2. https://docs.microsoft.com/en-us/power-bi/service-gateway-onprem
+
+Getting data from Web
+1. Go to Getdata
+2. Put: https://www2.census.gov/geo/docs/maps-data/data/rel/zcta_place_rel_10.txt
