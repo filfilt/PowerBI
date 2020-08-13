@@ -1,0 +1,92 @@
+Part7.Power BI Over View
+========//========
+Power B! Desktop is a free application you install on your local computer that lets you connect to, transform,
+and visualize your data.
+With Power BI Desktop, you can connect to multiple different sources of data, and combine them (often
+called modeling) Into a data model. This data model lets you build visuals, and collections of visuals you can
+share as reports, with other people inside your organization.
+The most common uses for Power BI Desktop are as follows:
+1. Connect to data
+2. Transform and clean that data, to create a data model
+3. Create visuals, such as charts or graphs, that provide visual representations of the data
+4. Create reports that are collections of visuals, on one or more report pages
+5. Share reports with others by using the Power BI service
+
+======================//================================
+   Steps:
+	-Open Power BI 
+	-Get Data From some data center (eg: From SQL Server)
+	-SQL server
+	-Put Server and Database Then OK
+	-Select tables
+	-Transform Dara (Mean Create Model)
+
+Work1:Make Table Student+(DepartmentId and DepartmentName)
+	-open Student table 
+	-Expand Department
+	-Select (DepartmentId and DepartmentName) only
+	-Close and Apply
+
+Work2:Create New table and Show some columns(ID,Fname,Lname)
+	-Expand student
+	-Open Table NavIcon
+	-Select columns as we want
+	
+Work3: Show DepartmentId and Sex using piechart
+	-Open NavIcon
+	-Select DepartmentId and Sex
+----------------------//-----------------------
+   why power BI Desktop
+    =========//=======
+
+There are three views available in Power Bl Desktop,
+which you select on the left side of the canvas. The
+views, shown in the order they appear, are as follows:
+
+1 Report: In this view, you create reports and
+visuals, where most of your creation time is spent.
+
+2. Data: In this view, you see the tables, measures,
+and other data used in the data model associated
+with your report, and transform the data for best
+use in the reports model.
+
+3. Model: In this view, you see and manage the
+relationships among tables in your data model.
+
+---------------//----------------
+	TRANSFORM AND CLEAN DATA, CREATE A MODEL
+In Power BI Desktop, you can clean and transform data using the built-in Power Query Editor.
+With Power Query Editor, you make changes to your data, such as changing a data type,
+removing columns, or combining data from multiple sources. It’s like sculpting: you start with a
+large block of clay (or data), then shave off pieces or add others as needed, until the shape of
+the data is how you want it.
+To start Power Query Editor:
+Select Edit Queries > Edit Queries from the Home ribbon.
+The Power Query Editor window appears.
+	---------------//-----------------
+
+    There are two ways to connect SQL (Import and DirectQuery)
+If we use direct Query we should setup data gateway. For that we should install Data Gateway
+from portal as seen in the picture below
+
+	HOW TO GATEWAY WORKS
+	  ========//=======
+Types of gateways
+There are two different types of gateways, each for a
+different scenario:
+On-premises data gateway allows multiple users to
+connect to multiple on-premises data sources. You can
+use an on-premises data gateway with all supported
+services, with a single gateway installation. This gateway is
+well-suited to complex scenarios with multiple people
+accessing multiple data sources.
+On-premises data gateway (personal mode) allows one
+user to connect to sources, and can’t be shared with
+others. An on-premises data gateway (personal mode) can
+be used only with Power BI. This gateway is well-suited to
+scenarios where youre the only person who creates
+reports, and you don’t need to share any data sources
+with others.
+
+
