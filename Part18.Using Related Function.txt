@@ -1,0 +1,11 @@
+    
+
+Part18. Using Related Function:
+    ========================
+This is to gate data from related Field. For example Grade table want to include first name of students. 
+   Steps:
+=>Access FName From Grade
+->Open Grade under Data
+-> Create New Column
+->fx: First Name = RELATED(Student[FName]
+Then we create different types of Reports
