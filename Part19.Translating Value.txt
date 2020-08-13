@@ -1,0 +1,8 @@
+Part19.Translation
+This is to use Conditional Operator as: =IF(conditionl,resultl,IF(condition2result2,result3))
+Eg:To change "Mark" to "Grade"
+->Open the table
+->Create New column
+->fx: Grade = if([Mark]>90,"A",if([Mark]>80,"B",if([Mark]>70,"C",if([Mark]<70,"D"))))
+
+NB: If the data value is changed from SQL Server, the Grad from Power BI also changed
