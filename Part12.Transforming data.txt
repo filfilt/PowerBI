@@ -24,7 +24,10 @@ Create View VwmaleStudents
 as
 Select * From Student Where Sex = 'm'
 select * from VwmaleStudents
-=>Import the tables to power BI desktop
+=>Open Power BI desktop
+=>Get data
+=>SQL server
+=>Load
 =>Rename: VwfemalStudents = FemaleStudent 
 	  VwmaleStudents =maleStudent
 
