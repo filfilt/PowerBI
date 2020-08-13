@@ -1,0 +1,5 @@
+Part15.Filtering Rows
+  =================
+1. Filtering: Sex =>(Sex->Select one of the two)
+2. Filtering: Id  =>Id->number filter->Greater than or equal
+3. Filtering: Name->text Filter->Begins with
