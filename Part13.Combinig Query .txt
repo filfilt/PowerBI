@@ -7,5 +7,6 @@ Steps:
 	-Report
 	-Transform Data
 	-Transform Query
-	-Append
+	-Append(Combine)
 	-Appened Query as New
+	-Put the selected table at the top textBot The New table at the Second textBox
