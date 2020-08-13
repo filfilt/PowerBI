@@ -3,4 +3,11 @@ Part10> Get Data From Execl
 	-Open Power BI Desktop
 	-Get Data
 	-Execl
+	-Browse data
+	-Transform Data
+	-Apply and close
+	-Publish
+	-Select workspace
+	-and the open it under report to make live
+
 	
