@@ -1,0 +1,30 @@
+   Part12.Transforming data
+       ====================
+	1.Rename objects
+	2.Combine queries
+	3.Fixing metadata
+	4.Filtering rows
+	5.Eliminating columns
+	6.Adding columns
+  ---------------//---------------
+	Renaming Query
+To rename the query, just right click on the query and rename it as:
+This is also true in Excel as well
+
+ -----------Create---------------
+Use Studentmanagment
+select * from Student
+
+Create View VwfemalStudents
+as
+Select * From Student Where Sex = 'F'
+Select * from VwfemalStudents
+
+Create View VwmaleStudents
+as
+Select * From Student Where Sex = 'm'
+select * from VwmaleStudents
+=>Import the tables to power BI desktop
+=>Rename: VwfemalStudents = FemaleStudent 
+	  VwmaleStudents =maleStudent
+
