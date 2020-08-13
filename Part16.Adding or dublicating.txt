@@ -1,0 +1,8 @@
+Part16.Adding or dublicating Columns
+  ======================
+To perform this:
+1. Right click on the column
+2. Select duplicate column
+3. Once you do that, selet the split column
+4. Select delimiter
+5. And click on ok
