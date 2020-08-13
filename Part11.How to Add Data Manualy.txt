@@ -1,0 +1,11 @@
+Part11.How to add data manualy
+       ==========//=========
+Adding Data Manually PBI Desktop
+1. Click on Data tab
+2. Change the column names 
+3. Start inputting data : cwfre 
+4. Give the table name and save
+	Or 
+	-Open Power BI Desktop
+	-Home
+	-Enter Data   the create table
