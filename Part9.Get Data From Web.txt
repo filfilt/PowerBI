@@ -1,5 +1,17 @@
 Oart9.Get Data From Web
+ Video Link: https://youtu.be/M0onHJ6M0Co
   ============/========
 Getting data from Web
 1. Go to Getdata
 2. Put: https://www2.census.gov/geo/docs/maps-data/data/rel/zcta_place_rel_10.txt
+
+	Get Data From Web
+	-Open PowerBI Desktop
+	-Go to "Get data"
+	-Web
+	-Paste: Url  (eg use the above url)
+	-Check basic THEN Ok
+	-Connect
+	-Load
+
+

@@ -1,0 +1,5 @@
+Note:
+I have 
+	1. Power BI Desktop  in my local computer
+	2. PowerBI.com    online 
+By using this two I can fetch data from server and I can deploy to the cloud
