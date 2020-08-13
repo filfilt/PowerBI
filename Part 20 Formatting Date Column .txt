@@ -1,0 +1,32 @@
+Part 20 Formatting Date Column 
+  ======================
+=>First Create Table from SQL 
+------------/--------------
+
+--Create
+Create table myDate
+(
+date varchar(30),
+
+)
+
+insert into myDate (date) values('2019-5-02')
+insert into myDate (date) values('2018-5-03')
+insert into myDate (date) values('2017-5-04')
+insert into myDate (date) values('2020-5-08')
+insert into myDate (date) values('2016-5-07')
+insert into myDate (date) values('2015-5-09')
+insert into myDate (date) values('2019-5-05')
+Select * From myDate
+
+---------------------/-----------------
+->Import
+->Add column
+
+  to get year:
+->fx: Column = YEAR([date])
+
+ to get month:
+  fx: Column = month([date]
+      or
+      MonthYear = format([Date],"MMM")& " " & [Year]
