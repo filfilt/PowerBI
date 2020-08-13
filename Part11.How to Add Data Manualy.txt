@@ -9,3 +9,8 @@ Adding Data Manually PBI Desktop
 	-Open Power BI Desktop
 	-Home
 	-Enter Data   the create table
+	-Edit
+	-Transform Data
+	-Home
+	-Apply and close
+	-Apply and close
