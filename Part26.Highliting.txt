@@ -1,0 +1,17 @@
+Part26.Highliting
+  ===============
+
+Is another interactive feature. If we click on one visualization, related objects will be changes as
+well. To clear the selection, just click on the object body
+	-Update fonts
+	-Colors
+	-Style
+	-Put two box in to one
+	-Adding title
+
+----------------------------//----------------------------
+Setting Properties
+We can change labels, Resize legend text
+colors, etc
+Adding rectangle and ser
+it back
