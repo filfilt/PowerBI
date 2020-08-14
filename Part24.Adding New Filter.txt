@@ -1,4 +1,4 @@
-git commit -m Part24.Adding New Filter
+Part24.Adding New Filter
    =================
 Drag and Drop the filter to the filter display as:
 	- Filters on this page
