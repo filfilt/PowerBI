@@ -1,0 +1,12 @@
+Part22.Inhancing
+   =============
+Hidingthetable
+Hiding Column
+Sorting by Column
+Changing Decimal Places
+
+=>Under Table tools ->New Mesure
+Adding Measures
+ -Count		->fx:  countStudent = COUNT(Student[StudentId])
+ -Percent
+ -Aggregate Function   ->fx: AvgOfGrade = AVERAGE(Grade[Mark])
