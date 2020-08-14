@@ -1,0 +1,12 @@
+Part23. Visualization
+ =============
+Visualization of Data
+
+	- Table 
+	- Clustered Column Chart
+	- Map 
+	- Card
+	- Matrix 
+	- Bar Chart 
+	- Filled Map 
+	- KPI
