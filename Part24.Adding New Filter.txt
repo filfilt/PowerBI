@@ -1,0 +1,11 @@
+git commit -m Part24.Adding New Filter
+   =================
+Drag and Drop the filter to the filter display as:
+	- Filters on this page
+	- Add Filter here (Particular report) ->by drag and drop
+	- Filters on all page ->by drag and drop
+Slicer: It is like page Filter
+=======
+	- Drag and drop
+* Adding Page
+
