@@ -1,0 +1,22 @@
+Part21.Emmbeded Report
+  ===================
+First: Create 
+"home.html"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Power BI</title>
+</head>
+<body>
+    <p>Power BI Dash Board</p>
+</body>
+</html>
+-----------------//------------
+To Emmbed Report to this page
+Case1:
+    -Go to powerBI.com  and open the Report
+    - File
+    -Embbed
+    -Copy Url and past it in our html code next to " <p>Power BI Dash Board</p>"
+    -then Open the browser and look it
